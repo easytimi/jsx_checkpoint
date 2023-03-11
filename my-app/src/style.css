@@ -1,0 +1,9 @@
+.pass{
+    margin: 0px; 
+   
+}
+.pass img{
+    height: 100px;
+    width: 100px;
+    float: left;
+}
